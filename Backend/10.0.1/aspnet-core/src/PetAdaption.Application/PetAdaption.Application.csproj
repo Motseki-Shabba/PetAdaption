@@ -14,7 +14,4 @@
   <ItemGroup>
     <ProjectReference Include="..\PetAdaption.Core\PetAdaption.Core.csproj" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Services\AdopterService\" />
-  </ItemGroup>
 </Project>
